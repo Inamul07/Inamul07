@@ -10,7 +10,6 @@ Hey! Thank you for your interest in learning more about me. My name is Mohammed 
 * ✉️  You can contact me at [mohammedinamul87@gmail.com](mailto:mohammedinamul87@gmail.com)
 * 🚀  I'm currently working on [Crack The CI](http://github.com/Inamul07/CrackTheCI)
 * 🧠  I'm learning React Native
-* ⚡  I'm Spiderman, Don't tell anyone else
 
 ### Skills
 
