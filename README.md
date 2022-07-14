@@ -8,7 +8,7 @@ Hey! Thank you for your interest in learning more about me. My name is Mohammed 
 
 * 🖥️  See my portfolio at [MIH-Portfolio](http://mih-portfolio.netlify.app/)
 * ✉️  You can contact me at [mohammedinamul87@gmail.com](mailto:mohammedinamul87@gmail.com)
-* 🚀  I'm currently working on [Crack The CI](http://github.com/Inamul07/CrackTheCI)
+* 🚀  I'm currently working on [Expenser](http://github.com/Inamul07/Expenser)
 * 🧠  I'm currently learning React Native
 
 ### Skills
