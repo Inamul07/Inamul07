@@ -4,7 +4,7 @@ Hi 👋 My name is Mohammed Inamul Hassan M
 Software Develepor
 ------------------
 
-Hey! Thank you for your interest in learning more about me. My name is Mohammed Inamul Hassan, and I'm a second-year B.Tech/IT undergraduate at Sri Sairam Engineering College. I enjoy picking up new skills and technology. I strive to improve as a programmer and a problem solver. Android app development and UI/UX design are two of my favourite things to do. Apart from my professional life, I enjoy cricket and football, as well as a popular pastime these days: gaming.
+Hey! Thank you for your interest in learning more about me. My name is Mohammed Inamul Hassan, and I'm a third-year B.Tech/IT undergraduate at Sri Sairam Engineering College. I enjoy picking up new skills and technology. I strive to improve as a programmer and a problem solver. Android app development and UI/UX design are two of my favourite things to do. Apart from my professional life, I enjoy cricket and football, as well as a popular pastime these days: gaming.
 
 * 🖥️  See my portfolio at [MIH-Portfolio](http://mih-portfolio.netlify.app/)
 * ✉️  You can contact me at [mohammedinamul87@gmail.com](mailto:mohammedinamul87@gmail.com)
@@ -39,6 +39,10 @@ Hey! Thank you for your interest in learning more about me. My name is Mohammed 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Inamul07/CrackTheCI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inamul07&repo=CrackTheCI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Inamul07/GitHub_100" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inamul07&repo=GitHub_100&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Inamul07/Expenser" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inamul07&repo=Expenser&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Inamul07/DrugEx" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inamul07&repo=DrugEx&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <!---
 Inamul07/Inamul07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
