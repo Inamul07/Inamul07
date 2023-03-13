@@ -14,8 +14,6 @@ Hey! Thank you for your interest in learning more about me. My name is Mohammed 
  <h1 align="center">Hi 👋, I'm Mohammed Inamul Hassan M</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inamul07" alt="inamul07" /></a> </p>
-
 - 🔭 I’m currently working on [Crack The CI](https://github.com/Inamul07/crack-the-ci-2.0)
 
 - 🌱 I’m currently learning **React Native**
