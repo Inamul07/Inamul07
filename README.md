@@ -38,4 +38,4 @@ Hey! Thank you for your interest in learning more about me. My name is Mohammed 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inamul07&show_icons=true&locale=en" alt="inamul07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inamul07&" alt="inamul07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Inamul07&" alt="Inamul07" /></p>
