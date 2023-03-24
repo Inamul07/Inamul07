@@ -51,8 +51,7 @@ src="https://img.shields.io/twitter/follow/07_Inamul?logo=twitter&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Inamul07/DrugEx2.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inamul07&repo=DrugEx2.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Inamul07/crack-the-ci-2.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inamul07&repo=crack-the-ci-2.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/Inamul07/DrugEx2.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inamul07&repo=DrugEx2.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Inamul07/crack-the-ci-2.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inamul07&repo=crack-the-ci-2.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br />
+<br />
 <div width="100%" align="center"><a href="https://github.com/Inamul07/GitHub_100" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inamul07&repo=GitHub_100&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Inamul07/ITunes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inamul07&repo=ITunes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
