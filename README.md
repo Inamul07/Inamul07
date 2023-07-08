@@ -20,9 +20,11 @@ src="https://img.shields.io/twitter/follow/07_Inamul?logo=twitter&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Inamul07"><img src="https://github-readme-stats.vercel.app/api?username=Inamul07&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Inamul07's GitHub stats" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inamul07&show_icons=true&locale=en&layout=compact" alt="inamul07" /></p>
 
-<a href="http://www.github.com/Inamul07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Inamul07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inamul07&show_icons=true&locale=en" alt="inamul07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inamul07&" alt="inamul07" /></p>
 
 
 
