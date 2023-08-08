@@ -19,7 +19,7 @@ Hey! Thank you for your interest in learning more about me. My name is Mohammed 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Inamul07&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Inamul07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Inamul07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Inamul07&theme=dark&hide_border=false)<br/>
 
 ![](https://komarev.com/ghpvc/?username=Inamul07)
