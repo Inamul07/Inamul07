@@ -4,12 +4,11 @@ Hi 👋 My name is Mohammed Inamul Hassan M
 Software Developer
 ------------------
 
-Hey! Thank you for your interest in learning more about me. My name is Mohammed Inamul Hassan, and I'm a third-year B.Tech/ Information Technology undergraduate at Sri Sairam Engineering College. I enjoy picking up new skills and technology. I strive to improve as a programmer and a problem solver. Recently App Development and Backend Development are two of my favourite things to do. Apart from my professional life, I enjoy football and cricket, as well as a popular pastime these days: gaming.
+Hey! Thank you for your interest in learning more about me. My name is Mohammed Inamul Hassan, and I'm a final-year B.Tech/ Information Technology undergraduate at Sri Sairam Engineering College. I enjoy picking up new skills and technology. I strive to improve as a programmer and a problem solver. Recently App Development and Backend Development are two of my favourite things to do. Apart from my professional life, I enjoy football and cricket, as well as a popular pastime these days: gaming.
 
 * 🖥️  See my portfolio at [MIH-Portfolio](http://mih-portfolio.netlify.app/)
 * ✉️  You can contact me at [mohammedinamul87@gmail.com](mailto:mohammedinamul87@gmail.com)
 * 🚀  I'm currently working on [DrugEx](http://github.com/Inamul07/DrugEx2.0)
-* 🧠  I'm learning React Native + MongoDB
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/07_inamul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mih07) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16385593) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/07_inamul) 
