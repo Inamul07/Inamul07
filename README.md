@@ -6,7 +6,7 @@ Software Developer
 
 Hey! Thank you for your interest in learning more about me. My name is Mohammed Inamul Hassan, and I'm a Software Engineer working at Zoho Corporations. I enjoy picking up new skills and technology. I strive to improve as a programmer and a problem solver. Currently learning my way through machine learning concepts and also into Database Systems (mostly PostgreSQL). Apart from my professional life, I enjoy football and cricket, as well as playing games.
 
-* 🖥️  See my portfolio at [MIH-Portfolio](http://mih-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [MIH-Portfolio](http://mih-portfolio.vercel.app/)
 * ✉️  You can contact me at [mohammedinamul87@gmail.com](mailto:mohammedinamul87@gmail.com)
 * 🚀  I'm currently working at [Zoho Corporations](https://www.zoho.com)
 
